@@ -1,0 +1,20 @@
+📜 TUTORIAL - Welcome to BitBlade!
+
+You are a lone warrior in a cursed land overrun by monsters.  
+To survive, you'll need strength, strategy, and a sharp blade.
+
+🎮 Controls:
+- Use the arrow keys to navigate the menu.  
+- In each round, choose whether to attack or defend.
+
+⚔️ Combat Basics:
+- You and your enemy take turns.  
+- Each attack has a chance to hit or miss.  
+- Defend wisely — some monsters hit harder than others.
+
+🧪 Tip:
+
+🏆 Goal:
+Defeat all the monsters without dying.
+
+Good luck, warrior... your blade awaits!
